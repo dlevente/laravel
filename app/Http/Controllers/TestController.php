@@ -15,7 +15,7 @@ class TestController extends Controller
      */
     public function index()
     {
-        return '1';
+       // sdfsd fsd adsaad s
     }
 
     /**
